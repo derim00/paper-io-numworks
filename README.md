@@ -3,7 +3,7 @@ paperio4numworks
 
 # Paper.io - NumWorks
 
-Fait par derim .gg/derim
+Fait par derim .gg/derim .gg/sti2d
 
 Une adaptation du célèbre jeu Paper.io conçue spécifiquement pour la calculatrice NumWorks (compatible avec le firmware Epsilon via l'EADK).
 
